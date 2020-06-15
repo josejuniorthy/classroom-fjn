@@ -9,7 +9,6 @@ import br.com.caelum.vraptor.Post;
 import br.com.caelum.vraptor.Result;
 import br.com.dao.StudentDAO;
 import br.com.model.Student;
-import br.com.model.Student;
 import java.util.List;
 import javax.inject.Inject;
 
