@@ -16,6 +16,12 @@
     
     <dependencies>
         <dependency>
+            <groupId>br.com</groupId>
+            <artifactId>classroom-fjn</artifactId>
+            <version>1.0</version>
+            <type>war</type>
+        </dependency>
+        <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
             <version>7.0</version>
